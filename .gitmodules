@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/biologyautomation/biologyautomation.r-universe.dev
 	branch = HEAD
+[submodule "ExperimentalDesignGeneratorandRandomiser"]
+	path = ExperimentalDesignGeneratorandRandomiser
+	url = https://github.com/biologyautomation/edgar-r
 [submodule "biotrace"]
 	path = biotrace
 	url = https://github.com/rotsl/biotrace-r
